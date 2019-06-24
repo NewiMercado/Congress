@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #FFFFFF, #2c3e50);
+}
+
+footer {
+    text-align: center; 
+    align-content: center;
+    margin-left: 35%;
+    margin-top: 15%;
+    margin-bottom: 20px;
+}
+
+h2,
+h3 {
+    margin-top: 10px;
+}
+
+img {
+    opacity: 0.8;
+}
+
+th,
+table {
+    text-align: center;
+}
